@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Feb  8 10:48:03 2018
-From: https://www.datacamp.com/community/tutorials/unicode-to-ascii-python
 @Author: Dim S
 """
 
